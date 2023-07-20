@@ -5,7 +5,6 @@ import { useRouter } from 'expo-router'
 
 import styles from './section.style'
 import {COLORS, SIZES} from '../../../constants'
-import PopularJobCard from '../../common/cards/popular/PopularJobCard';
 import { isLoading } from 'expo-font'
 
 const Popularjobs = () => {
